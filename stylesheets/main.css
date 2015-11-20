@@ -13,3 +13,12 @@
   width:5%;
   height:20%;
 }
+.enemy {
+  fill: red;
+  stroke: red;
+  stroke-width: 2;
+  x:101%;
+  y:80%;
+  width:5%;
+  height:20%;
+}

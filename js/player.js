@@ -6,12 +6,12 @@ var Player = function(){
            y: '20%'
         }, 500, function(){
           $('.player').animate({
-      y: '+=60%'
-    }, 500, function(){
+          y: '+=60%'
+        }, 500, function(){
       console.log('animation done');
       })
           console.log('animation done');
-          
+           
         })
       }
     });
